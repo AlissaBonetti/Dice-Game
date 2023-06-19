@@ -1,0 +1,37 @@
+body {
+    background-color:#3A4F7A;
+    color: #FFDB89;
+    text-align: center;
+}
+button{
+    background-color: #3A4F7A;
+    border: none;
+}
+
+i{
+    color:#850000;
+    background-color: #3A4F7A;
+}
+
+i:hover{
+    color:#EB6440;
+    cursor:grab;
+}
+
+.title{
+    font-size: 4rem;
+}
+
+.player{  
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+    display:inline;
+    padding:0 10rem;
+    
+}
+
+.dice1, .dice2{
+    font-size: 19rem;
+    margin: 0rem 6rem;
+    }
